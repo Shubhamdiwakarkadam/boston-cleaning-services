@@ -8,7 +8,7 @@ export const BUSINESS_INFO = {
   website: 'https://www.bostoncleaningservices.in',
   location: 'Mumbai, Maharashtra, India',
   category: 'Professional Residential and Commercial Cleaning Services',
-  logoUrl: '/logo.png',
+  logoUrl: './logo.png',
 };
 
 export const PROPERTY_TYPES = [
