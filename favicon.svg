@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Rounded Brand Background -->
+  <rect width="64" height="64" rx="14" fill="#102B4E"/>
+  
+  <!-- Stylized B House Emblem -->
+  <!-- Upper & Back spine of B -->
+  <path d="M19 12H34C40.6 12 45 16 45 22C45 26.5 42.2 29.8 38 31C43.5 32.2 47 36.2 47 41.5C47 48 41.8 52 34.5 52H19V12Z" fill="#FFFFFF"/>
+  <path d="M25 18H33C37 18 39.5 20.2 39.5 23.5C39.5 26.8 37 29 33 29H25V18Z" fill="#102B4E"/>
+  
+  <!-- Lower House negative space -->
+  <path d="M25 35H34C38.2 35 41 37.5 41 41C41 44.5 38 47 33.5 47H25V35Z" fill="#102B4E"/>
+  <!-- House Roof & Window details inside lower loop -->
+  <polygon points="31,37 26,41 36,41" fill="#FFFFFF"/>
+  <rect x="28" y="42" width="6" height="5" rx="0.5" fill="#FFFFFF"/>
+  
+  <!-- Cyan wave swoop across bottom right -->
+  <path d="M16 54C24 49 34 50 42 46C46 44 49 41 52 38C48 46 39 52 28 54C24 54.8 19 54.5 16 54Z" fill="#20C4D8"/>
+  
+  <!-- Sparkles -->
+  <path d="M51 22L52.5 18L54 22L58 23.5L54 25L52.5 29L51 25L47 23.5L51 22Z" fill="#20C4D8"/>
+  <path d="M55 33L56 30L57 33L60 34L57 35L56 38L55 35L52 34L55 33Z" fill="#20C4D8"/>
+</svg>
